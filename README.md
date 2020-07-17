@@ -1,12 +1,12 @@
 # Readme
 
-Requirements
+- Requirements
 	- Installation of Sass using npm
 		- install node
 		- install sass (npm install -g sass)
 		- setup your guipfile.js on the root branch
 
-IV Interactive Assigment integration
+- IV Interactive Assigment integration
 	- Gulp | Task automation for SASS
 	- SASS / CSS3 | Sprites, media queries (responsive), and animation
 	- Javascript | Reusable form validation functionality
